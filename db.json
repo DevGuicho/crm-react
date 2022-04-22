@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Luis Vazquez",
+      "empresa": "Telmex",
+      "email": "luvazpa@gmail.com",
+      "telefono": "5519038167",
+      "notas": "El cliente solicita un producto",
+      "id": 1
+    },
+    {
+      "nombre": "Rosa Maria",
+      "empresa": "CIE",
+      "email": "romapaga15@gmail.com",
+      "telefono": "5521848888",
+      "notas": "",
+      "id": 3
+    }
+  ]
+}
