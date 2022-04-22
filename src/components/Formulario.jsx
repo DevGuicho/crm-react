@@ -26,7 +26,7 @@ const Formulario = ({ cliente }) => {
   const handleSubmit = async (values, { resetForm }) => {
     try {
       if (cliente.id) {
-        const url = `http://localhost:4000/clientes/${cliente.id}`
+        const url = `${import.meta.env.VITE_API_URL}/clientes/${cliente.id}`
 
         await window.fetch(url, {
           method: 'PUT',
@@ -36,7 +36,7 @@ const Formulario = ({ cliente }) => {
           }
         })
       } else {
-        const url = 'http://localhost:4000/clientes'
+        const url = `${import.meta.env.VITE_API_URL}/clientes`
 
         await window.fetch(url, {
           method: 'POST',
