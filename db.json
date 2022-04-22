@@ -3,24 +3,24 @@
     {
       "nombre": "Luis Vazquez",
       "empresa": "Telmex",
-      "email": "luvazpa@gmail.com",
-      "telefono": "5519038167",
+      "email": "fake@gmail.com",
+      "telefono": "5512121245",
       "notas": "El cliente solicita un producto",
       "id": 1
     },
     {
       "nombre": "Rosa Maria",
       "empresa": "CIE",
-      "email": "romapaga15@gmail.com",
-      "telefono": "5521848888",
+      "email": "fake1@gmail.com",
+      "telefono": "5521878787",
       "notas": "",
       "id": 3
     },
     {
-      "nombre": "Rosa Maria Padilla",
+      "nombre": "Hola mundo",
       "empresa": "CIE",
-      "email": "romapaga15@gmail.com",
-      "telefono": "5521848888",
+      "email": "fake2@gmail.com",
+      "telefono": "5532323232",
       "notas": "Si tiene ID",
       "id": 4
     }
